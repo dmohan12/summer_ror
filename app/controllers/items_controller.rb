@@ -28,11 +28,7 @@ class ItemsController < ApplicationController
   def edit
   end
 
-  def create_item
 
-
-
-  end 
 
 
   def complete
